@@ -4,5 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Day 1")
+	fmt.Println("Day 2")
+
 }
