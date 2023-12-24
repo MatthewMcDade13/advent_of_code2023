@@ -1,0 +1,9 @@
+pub const ONE: &'static str = "one";
+pub const TWO: &'static str = "two";
+pub const THREE: &'static str = "three";
+pub const FOUR: &'static str = "four";
+pub const FIVE: &'static str = "five";
+pub const SIX: &'static str = "six";
+pub const SEVEN: &'static str = "seven";
+pub const EIGHT: &'static str = "eight";
+pub const NINE: &'static str = "nine";
