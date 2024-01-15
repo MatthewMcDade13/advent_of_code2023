@@ -19,7 +19,8 @@ const GREEN_MAX = 13
 const BLUE_MAX = 14
 
 println(g::Game) = begin
-  println("Game $g.id { red: $g.red, green: $g.green, blue: $g.blue}")
+  "Game $g.id { red: $g.red, green: $g.green, blue: $g.blue}"
+
 end
 
 solution_p1() = begin
